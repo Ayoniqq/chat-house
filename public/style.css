@@ -76,7 +76,7 @@ body{
 /*CHAT SCREEN*/
 
 .chat-screen .header{
-	background: #111;
+	background: tomato;
 	height: 50px;
 	display: flex;
 	justify-content: space-between;
